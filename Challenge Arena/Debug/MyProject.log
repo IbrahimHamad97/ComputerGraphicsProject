@@ -1,0 +1,31 @@
+﻿  Main.cpp
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(425): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(426): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(434): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(435): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(443): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(444): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(452): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(453): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(462): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(463): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(500): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(501): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(509): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(510): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(518): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(527): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(537): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(538): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(745): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(746): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(749): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(750): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(753): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\challenge arena\main.cpp(760): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  MyProject.vcxproj -> C:\Users\Hp\Documents\Visual Studio 2015\Projects\Challenge Arena\Debug\MyProject.exe
+  MyProject.vcxproj -> C:\Users\Hp\Documents\Visual Studio 2015\Projects\Challenge Arena\Debug\MyProject.pdb (Full PDB)
